@@ -9,7 +9,7 @@ function NameofFunction() {
   // body of function
 }
 
-function addNumbers(num1, num2, num3, num4) {
+function addNumbers(return num1, num2, num3, num4) {
   num1 + num2 + num3 + num4
 }
 
